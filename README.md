@@ -30,9 +30,6 @@
 
 
 ---
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,mysql,github,vscode" />
-</p>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
